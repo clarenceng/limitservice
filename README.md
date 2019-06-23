@@ -1,13 +1,10 @@
-#Limit Service
+# Limit Service
 
-##Commands
+## Commands
 
-Run output of input.txt through limitService and compare it against output.txt
-- yarn start
+`yarn start` - Run output of input.txt through limitService and compare it against output.txt
 
-
-Run tests
-- yarn test
+`yarn test` - Run tests
 
 ---
 
